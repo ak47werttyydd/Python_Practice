@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4593b19-d18b-4168-9806-7369c8ac2040" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FindMostSubDirs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImportImg2PPT_1file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImportImg2PPT_allFiles.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImportImg2PPT_allFiles_imgName.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImportImg2PPT_allFiles_imgName_upOrder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RobotRoomClean.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SimilarSentences.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_listSlice.py" afterDir="false" />
-    </list>
+    <list default="true" id="c4593b19-d18b-4168-9806-7369c8ac2040" name="Changes" comment="first commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,27 +29,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.FindMostSubDirs.executor": "Run",
-    "Python.ImportImg2PPT.executor": "Run",
-    "Python.ImportImg2PPT_allFiles.executor": "Run",
-    "Python.ImportImg2PPT_allFiles_imgName.executor": "Run",
-    "Python.ImportImg2PPT_allFiles_imgName_upOrder.executor": "Run",
-    "Python.SimilarSentences.executor": "Run",
-    "Python.Unnamed.executor": "Run",
-    "Python.test_listSlice.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/adrianhwang/DataStructure/Python/pythonProject",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.FindMostSubDirs.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ImportImg2PPT.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ImportImg2PPT_allFiles.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ImportImg2PPT_allFiles_imgName.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ImportImg2PPT_allFiles_imgName_upOrder.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SimilarSentences.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Unnamed.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_listSlice.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/adrianhwang/DataStructure/Python/pythonProject&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -211,12 +196,12 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Unnamed" />
       <item itemvalue="Python.FindMostSubDirs" />
       <item itemvalue="Python.ImportImg2PPT_1file" />
       <item itemvalue="Python.ImportImg2PPT_allFiles" />
       <item itemvalue="Python.ImportImg2PPT_allFiles_imgName" />
       <item itemvalue="Python.ImportImg2PPT_allFiles_imgName_upOrder" />
+      <item itemvalue="Python.Unnamed" />
     </list>
     <recent_temporary>
       <list>
@@ -250,11 +235,25 @@
       <workItem from="1726526892801" duration="2117000" />
       <workItem from="1726896050728" duration="9777000" />
       <workItem from="1727109835284" duration="14519000" />
+      <workItem from="1727283810284" duration="1052000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1727283848565</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727283848565</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pythonProject$ImportImg2PPT.coverage" NAME="ImportImg2PPT Coverage Results" MODIFIED="1727224746577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
