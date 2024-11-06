@@ -160,3 +160,10 @@
 # 	lst[0]=2
 # fun()
 # print(lst)#[2,2,3]
+
+# a="123"
+# print(type(a))
+
+List = [[1,2],[3,4]]
+for i1st,i2nd in List:
+    print(i1st,i2nd)
