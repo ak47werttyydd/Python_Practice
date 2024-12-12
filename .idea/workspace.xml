@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4593b19-d18b-4168-9806-7369c8ac2040" name="Changes" comment="Oct13">
-      <change afterPath="$PROJECT_DIR$/K_Center.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SimilarSentence_dfs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sum_subNodes_TreeInArray.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sum_subNodes_TreeInArray_LiHui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MagicMatrix3x3_CenterDiagnalEdge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MagicMatrix3x3_linewise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Str_elimination.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test_listSlice.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_listSlice.py" afterDir="false" />
     </list>
@@ -26,6 +27,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -45,15 +49,20 @@
     "Python.ImportImg2PPT_allFiles_imgName.executor": "Run",
     "Python.ImportImg2PPT_allFiles_imgName_upOrder.executor": "Run",
     "Python.K_Center.executor": "Run",
+    "Python.MagicMatrix3x3_CenterDiagnalEdge.executor": "Run",
+    "Python.MagicMatrix3x3_Prune.executor": "Run",
+    "Python.MagicMatrix3x3_linewise.executor": "Run",
+    "Python.MagicMatrix_3x3.executor": "Run",
     "Python.SimilarSentence.executor": "Run",
     "Python.SimilarSentences.executor": "Run",
     "Python.Sum_subNodes_TreeInArray.executor": "Run",
     "Python.Sum_subNodes_TreeInArray_LiHui.executor": "Run",
     "Python.Unnamed.executor": "Run",
+    "Python.str_elimination.executor": "Run",
     "Python.test_listSlice.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/adrianhwang/DataStructure/Python/pythonProject",
+    "last_opened_file_path": "/home/ruochen/LeetCode/python/Python_Practice",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -67,7 +76,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.K_Center">
+  <component name="RunManager" selected="Python.MagicMatrix3x3_CenterDiagnalEdge">
     <configuration name="K_Center" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
@@ -91,7 +100,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SimilarSentence_dfs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="MagicMatrix3x3_CenterDiagnalEdge" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -105,7 +114,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SimilarSentence_dfs.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MagicMatrix3x3_CenterDiagnalEdge.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -114,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Sum_subNodes_TreeInArray" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="MagicMatrix3x3_linewise" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -128,7 +137,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sum_subNodes_TreeInArray.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MagicMatrix3x3_linewise.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,7 +146,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Sum_subNodes_TreeInArray_LiHui" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Str_elimination" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -151,7 +160,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sum_subNodes_TreeInArray_LiHui.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Str_elimination.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,7 +178,6 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="leetcode" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -209,27 +217,27 @@
     </configuration>
     <list>
       <item itemvalue="Python.Unnamed" />
+      <item itemvalue="Python.MagicMatrix3x3_CenterDiagnalEdge" />
+      <item itemvalue="Python.MagicMatrix3x3_linewise" />
+      <item itemvalue="Python.Str_elimination" />
       <item itemvalue="Python.K_Center" />
-      <item itemvalue="Python.Sum_subNodes_TreeInArray_LiHui" />
-      <item itemvalue="Python.Sum_subNodes_TreeInArray" />
-      <item itemvalue="Python.SimilarSentence_dfs" />
       <item itemvalue="Python.test_listSlice" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.K_Center" />
-        <item itemvalue="Python.Sum_subNodes_TreeInArray_LiHui" />
-        <item itemvalue="Python.Sum_subNodes_TreeInArray" />
-        <item itemvalue="Python.SimilarSentence_dfs" />
+        <item itemvalue="Python.MagicMatrix3x3_CenterDiagnalEdge" />
+        <item itemvalue="Python.MagicMatrix3x3_linewise" />
         <item itemvalue="Python.test_listSlice" />
+        <item itemvalue="Python.Str_elimination" />
+        <item itemvalue="Python.K_Center" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.19416.19" />
-        <option value="bundled-python-sdk-337b0a7a993a-2767605e8bc2-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.19416.19" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.241" />
+        <option value="bundled-python-sdk-0509580d9d50-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.241" />
       </set>
     </attachedChunks>
   </component>
@@ -256,6 +264,8 @@
       <workItem from="1730354241515" duration="34000" />
       <workItem from="1730354298047" duration="17921000" />
       <workItem from="1730859577000" duration="22055000" />
+      <workItem from="1733876716105" duration="18842000" />
+      <workItem from="1733954416102" duration="9535000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -296,16 +306,21 @@
     <option name="LAST_COMMIT_MESSAGE" value="Oct13" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/pythonProject$ImportImg2PPT.coverage" NAME="ImportImg2PPT Coverage Results" MODIFIED="1727224746577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pythonProject$FindMostSubDirs.coverage" NAME="FindMostSubDirs Coverage Results" MODIFIED="1727225257836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pythonProject$K_Center.coverage" NAME="K_Center Coverage Results" MODIFIED="1730931881613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pythonProject$ImportImg2PPT_allFiles.coverage" NAME="ImportImg2PPT_allFiles Coverage Results" MODIFIED="1727225269786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pythonProject$SimilarSentences.coverage" NAME="SimilarSentences Coverage Results" MODIFIED="1726897359289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pythonProject$ImportImg2PPT_allFiles_imgName_upOrder.coverage" NAME="ImportImg2PPT_allFiles_imgName_upOrder Coverage Results" MODIFIED="1727229093257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pythonProject$test_listSlice.coverage" NAME="test_listSlice Coverage Results" MODIFIED="1728884991981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pythonProject$SimilarSentence.coverage" NAME="SimilarSentence Coverage Results" MODIFIED="1728886008593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pythonProject$1.coverage" NAME="Sum_subNodes_TreeInArray Coverage Results" MODIFIED="1730437684338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$ImportImg2PPT_allFiles_imgName.coverage" NAME="ImportImg2PPT_allFiles_imgName Coverage Results" MODIFIED="1727226602579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$ImportImg2PPT.coverage" NAME="ImportImg2PPT Coverage Results" MODIFIED="1727224746577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Practice$MagicMatrix3x3_linewise.coverage" NAME="MagicMatrix3x3_linewise Coverage Results" MODIFIED="1733963967886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$1.coverage" NAME="Sum_subNodes_TreeInArray Coverage Results" MODIFIED="1730437684338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Practice$test_listSlice.coverage" NAME="test_listSlice Coverage Results" MODIFIED="1733963800672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Practice$str_elimination.coverage" NAME="str_elimination Coverage Results" MODIFIED="1733877800103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$Sum_subNodes_TreeInArray_LiHui.coverage" NAME="Sum_subNodes_TreeInArray_LiHui Coverage Results" MODIFIED="1730872002490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Practice$MagicMatrix_3x3.coverage" NAME="MagicMatrix_3x3 Coverage Results" MODIFIED="1733907375118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$ImportImg2PPT_allFiles.coverage" NAME="ImportImg2PPT_allFiles Coverage Results" MODIFIED="1727225269786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$ImportImg2PPT_allFiles_imgName_upOrder.coverage" NAME="ImportImg2PPT_allFiles_imgName_upOrder Coverage Results" MODIFIED="1727229093257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$K_Center.coverage" NAME="K_Center Coverage Results" MODIFIED="1730931881613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$SimilarSentence.coverage" NAME="SimilarSentence Coverage Results" MODIFIED="1728886008593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$test_listSlice.coverage" NAME="test_listSlice Coverage Results" MODIFIED="1728884991981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$FindMostSubDirs.coverage" NAME="FindMostSubDirs Coverage Results" MODIFIED="1727225257836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Practice$MagicMatrix3x3_Prune.coverage" NAME="MagicMatrix3x3_CenterDiagnalEdge Coverage Results" MODIFIED="1733963986495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$SimilarSentences.coverage" NAME="SimilarSentences Coverage Results" MODIFIED="1726897359289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

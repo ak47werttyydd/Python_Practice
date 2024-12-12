@@ -164,6 +164,47 @@
 # a="123"
 # print(type(a))
 
-List = [[1,2],[3,4]]
-for i1st,i2nd in List:
-    print(i1st,i2nd)
+# List = [[1,2],[3,4]]
+# for i1st,i2nd in List:
+#     print(i1st,i2nd)
+
+# d=1
+# def fun2():
+# 	global d
+# 	d=2
+# fun2()
+# print("declare global d in the fun, outside d is ",d)
+#
+# d=1
+# def fun3():
+# 	d=2
+# fun3()
+# print("no declaration, outside d is ",d)
+
+# def first_function():
+#     print("Calling second_function")
+#     second_function()  # This works because second_function will be defined later.
+#
+# def second_function():
+#     print("Second function is called")
+#
+# # Calling the first function
+# first_function()
+
+# def fun(lst):
+#     lst=[1,2,3]
+# lst=[10,20,30]
+# fun(lst)
+# print("lst is ",lst)
+
+# lst1=[1,2,3,4,5]
+# lst2=lst1[:]
+# lst2[0]=100
+# print("lst1 is: ",lst1)
+# print("lst2 is: ",lst2)
+
+# i=1
+# sum(i for i in range(3))
+# print(i)
+
+# sum(1,2,3)
