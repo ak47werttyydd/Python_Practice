@@ -208,3 +208,61 @@
 # print(i)
 
 # sum(1,2,3)
+# List = [[1,2],[3,4]]
+# for i1st,i2nd in List:
+#     print(i1st,i2nd)
+
+# a=[1,2,3]
+# b=a
+# b[0]=b[0]-1
+# print('a is ',a,' b is ',b)
+#
+# a=[1,2,3]
+# b=a
+# b=b[0]-1
+# print('a is ',a,' b is ',b)
+
+# i=10
+# print("before loop i is ",i)
+# for i in range(5):
+#     print("i in loop is ", i )
+# print("after loop i is ",i)
+
+# a=[1,2,3]
+# print(a[100:])
+
+# for i in range(5):
+#     i=i+1
+#     print(i)
+
+# import sys
+#
+# # input("[1,2,3,4]")
+# # Example: reading multiple lines until EOF
+# lines = [] #each element is a str
+# for line in sys.stdin:
+#     if line.strip(): #1. strip() removes trailing newline. 2. If line is not empty
+#         lines.append([int(word) for word in line.split()])   #1. line.split() returns a list of words in a line 2. list comprehension to convert all words to int
+#
+# print(lines)  #list of lines
+# #lines[0] is the first line in list
+
+# import sys
+#
+# # Read all lines at once
+# input_data = sys.stdin.read().strip()  #1. read() reads all input until EOF 2. strip() removes leading and trailing newline
+# print("input_data is\n",input_data)
+# '''
+# 123 456 789
+# 987654321
+# '''
+# print("input_data's type is ",type(input_data)) #str
+#
+# lines = input_data.splitlines()  # Split str with multiple lines into individual line and store in a list
+# print(lines)  # Processed list of lines, #each element is a str
+
+import sys
+list_str=sys.stdin.readline().strip()  # Read a line and remove leading and trailing newline
+print("list_str is ",list_str, ", type is ", type(list_str))
+list=eval(list_str)  # Convert str to list
+print("list is ",list,", type is ",type(list))
