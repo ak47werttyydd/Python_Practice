@@ -261,8 +261,31 @@
 # lines = input_data.splitlines()  # Split str with multiple lines into individual line and store in a list
 # print(lines)  # Processed list of lines, #each element is a str
 
-import sys
-list_str=sys.stdin.readline().strip()  # Read a line and remove leading and trailing newline
-print("list_str is ",list_str, ", type is ", type(list_str))
-list=eval(list_str)  # Convert str to list
-print("list is ",list,", type is ",type(list))
+# import sys
+# list_str=sys.stdin.readline().strip()  # Read a line and remove leading and trailing newline
+# print("list_str is ",list_str, ", type is ", type(list_str))
+# list=eval(list_str)  # Convert str to list
+# print("list is ",list,", type is ",type(list))
+
+
+# for a in range(10):
+#     for b in range(10):
+#         c=10
+# print(a) #a=9
+# print(b) #b=9
+# print(c) #c=10
+
+lst1=[1,2,3,"abc"]
+tpl1=(1,2,3,"abc")
+
+def fun(arg):
+	arg[0]=1000
+
+fun(lst1)
+print(lst1) #lst1=[1000,2,3,"abc"]
+fun(tpl1)
+print(tpl1) #TypeError: 'tuple' object does not support item assignment
+
+
+
+
